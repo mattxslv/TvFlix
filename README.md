@@ -24,7 +24,7 @@ Tvflix is a web application that provides a Netflix-like experience for users to
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mattxslv/finance-tracker.git
+   git clone https://github.com/mattxslv/TvFlix.git
    
 2. Install dependencies:
    ```bash
