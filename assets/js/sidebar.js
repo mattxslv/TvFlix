@@ -30,24 +30,23 @@ export function sidebar() {
     
     </div>
     
-    <div class="sidebar-list">
-    
-      <p class="title">Language</p>
-    
-      <a href="./movie-list.html" menu-close class="sidebar-link"
-        onclick='getMovieList("with_original_language=en", "English")'>English</a>
-    
-      <a href="./movie-list.html" menu-close class="sidebar-link"
-        onclick='getMovieList("with_original_language=hi", "Hindi")'>Hindi</a>
-    
-      <a href="./movie-list.html" menu-close class="sidebar-link"
-        onclick='getMovieList("with_original_language=bn", "Bengali")'>Bengali</a>
+<div class="sidebar-list">
+  <p class="title">Language</p>
+
+  <a href="./movie-list.html" menu-close class="sidebar-link"
+    onclick='getMovieList("with_original_language=en", "English")'>English</a>
+
+  <a href="./movie-list.html" menu-close class="sidebar-link"
+    onclick='getMovieList("with_original_language=tl", "Tagalog")'>Tagalog</a>
+
+  <a href="./movie-list.html" menu-close class="sidebar-link"
+    onclick='getMovieList("with_original_language=ja", "Japanese")'>Japanese</a>
     
     </div>
     
     <div class="sidebar-footer">
       <p class="copyright">
-        Copyright 2024 <a href="https://youtube.com/@codewithsadee">Matthew Jericho Silva</a>
+        Copyright 2024 <a href="https://www.instagram.com/mattxslv/">Matthew Jericho Silva</a>
       </p>
     
       <img src="./assets/images/tmdb-logo.svg" width="130" height="17" alt="the movie database logo">
