@@ -67,7 +67,7 @@ export function sidebar() {
     
     <div class="sidebar-footer">
       <p class="copyright">
-        Copyright 2024 <a href="https://www.instagram.com/mattxslv/">Matthew Jericho Silva</a>
+        copyright 2024 <a href="https://www.instagram.com/mattxslv/">mattxslv</a>
       </p>
     
       <img src="./assets/images/tmdb-logo.svg" width="130" height="17" alt="the movie database logo">
